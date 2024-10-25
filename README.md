@@ -1,10 +1,10 @@
-# Proyecto de Prueba Técnica con Gradle, Selenium, Java, Serenity, y Cucumber
+# Proyecto de Prueba con Gradle, Selenium, Java, Serenity, y Cucumber
 ## Autor
 
 Desarrollado por [Juan Esteban Ruales Berrio](https://github.com/Esteban-Berrio).
 ## Descripción
 
-Este proyecto es una prueba técnica automatizada que utiliza un conjunto de tecnologías y herramientas para validar la funcionalidad de una aplicación web de ejemplo. Se han implementado pruebas de automatización con el propósito de demostrar las capacidades de las herramientas seleccionadas. Las cuales son : 
+Este proyecto es una prueba  automatizada que utiliza un conjunto de tecnologías y herramientas para validar la funcionalidad de una aplicación web de ejemplo. Se han implementado pruebas de automatización con el propósito de demostrar las capacidades de las herramientas seleccionadas. Las cuales son : 
 
 - **Gradle** 🛠️
 - **Cucumber**🥒
